@@ -12,13 +12,13 @@ body:
   validations:
     required: true
 
-- type: input
+- type: textarea
   id: description
   attributes:
     label: "Description"
     description: "Suggested description for the project"
 
-- type: input
+- type: textarea
   id: tags
   attributes:
     label: "Tags"
