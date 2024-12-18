@@ -4,7 +4,7 @@ title: "[Edit project's metadata]: "
 labels: ["enhancement"]
 assignees: []
 body:
-- type: textarea
+- type: input
   id: url
   attributes:
     label: "Project URL"
