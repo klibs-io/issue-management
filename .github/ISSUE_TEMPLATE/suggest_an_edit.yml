@@ -9,7 +9,7 @@ body:
   attributes:
     label: "Project URL"
     description: "Link to the project's page from klibs.io:"
-    validations:
+  validations:
     required: true
 
 - type: input
